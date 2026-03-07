@@ -3,19 +3,19 @@ import { motion } from "framer-motion";
 const skillGroups = [
   {
     label: "Langages",
-    skills: ["Java", "TypeScript", "JavaScript", "C++", "Python", "SQL"],
+    skills: ["C", "C++", "Java", "PHP", "JavaScript", "TypeScript", "HTML/CSS", "SQL"],
   },
   {
-    label: "Frontend",
-    skills: ["React", "Tailwind CSS", "JavaFX"],
+    label: "Frameworks & Librairies",
+    skills: ["React", "Angular", "React Native", "Electron", "Spring Boot", "Laravel", "Tailwind CSS", "Bootstrap"],
   },
   {
-    label: "Backend",
-    skills: ["Spring Boot", "Node.js", "API REST", "Microservices"],
+    label: "Modélisation & Design",
+    skills: ["UML", "BPMN", "Figma", "UX/UI"],
   },
   {
-    label: "Outils",
-    skills: ["Git", "MySQL", "PostgreSQL", "Linux"],
+    label: "Outils & Systèmes",
+    skills: ["Git", "MySQL", "Linux", "Apache", "Microservices", "API REST"],
   },
 ];
 
