@@ -13,18 +13,18 @@ const ContactSection = () => {
 
         <div className="flex flex-col gap-4">
           <a
-            href="mailto:mohamed.sadio@example.com"
+            href="mailto:Mohamed.sadio.14@gmail.com"
             className="flex items-center gap-3 text-sm text-muted-foreground hover:text-foreground transition-colors"
           >
             <Mail size={16} />
-            mohamed.sadio@example.com
+            Mohamed.sadio.14@gmail.com
           </a>
           <a
-            href="tel:+221000000000"
+            href="tel:+22178018991"
             className="flex items-center gap-3 text-sm text-muted-foreground hover:text-foreground transition-colors"
           >
             <Phone size={16} />
-            +221 00 000 00 00
+            +221 78 018 99 81
           </a>
           <a
             href="https://github.com/MohamedSadio"
@@ -36,7 +36,7 @@ const ContactSection = () => {
             github.com/MohamedSadio
           </a>
           <a
-            href="https://linkedin.com/in/"
+            href="https://linkedin.com/in/mohamed-sadio"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 text-sm text-muted-foreground hover:text-foreground transition-colors"
@@ -48,7 +48,7 @@ const ContactSection = () => {
 
         <div className="mt-16 pt-8 border-t border-border">
           <p className="text-xs text-muted-foreground font-mono">
-            © 2024 Mohamed SADIO — Tous droits réservés
+            © 2025 Mohamed SADIO — Tous droits réservés
           </p>
         </div>
       </div>

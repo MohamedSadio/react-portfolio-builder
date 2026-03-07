@@ -63,6 +63,21 @@ export const projects: Project[] = [
     category: "Full-Stack",
   },
   {
+    id: "gestion-restaurant",
+    title: "Gestion de Restaurant",
+    shortDescription: "Application desktop et mobile de gestion des commandes d'un restaurant.",
+    fullDescription:
+      "Projet tutoré de fin d'études réalisé à l'ESMT. Système complet de gestion des commandes d'un restaurant avec une application de bureau développée en Electron et une application mobile en React Native, permettant la prise de commandes, le suivi et la gestion complète du restaurant.",
+    stack: ["Electron", "React Native", "JavaScript"],
+    features: [
+      "Application desktop Electron",
+      "Application mobile React Native",
+      "Gestion des commandes en temps réel",
+      "Interface multiplateforme",
+    ],
+    category: "Desktop & Mobile",
+  },
+  {
     id: "location-javafx",
     title: "Gestion de Location",
     shortDescription: "Application desktop de gestion de locations développée en JavaFX.",
