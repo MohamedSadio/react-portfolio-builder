@@ -7,7 +7,7 @@ const skillGroups = [
   },
   {
     label: "Frameworks & Librairies",
-    skills: ["React", "Angular", "React Native", "Electron", "Spring Boot", "Laravel", "Tailwind CSS", "Bootstrap"],
+    skills: ["React", "Express", "Nest js","Electron", "Spring Boot","Tailwind CSS", "Bootstrap"],
   },
   {
     label: "Modélisation & Design",
@@ -15,8 +15,12 @@ const skillGroups = [
   },
   {
     label: "Outils & Systèmes",
-    skills: ["Git", "MySQL", "Linux", "Apache", "Microservices", "API REST"],
+    skills: ["Git", "MySQL", "Apache", "Microservices", "API REST"],
   },
+  {
+    label: "Ingénierie & Méthodes",
+    skills: ["Agile / Scrum", "Spécifications fonctionnelles", "User Stories", "Recueil des besoins", "Analyse métier"],
+  }
 ];
 
 const SkillsSection = () => {

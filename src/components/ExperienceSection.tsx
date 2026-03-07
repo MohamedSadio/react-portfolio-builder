@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const formations = [
   {
     period: "2024 — Présent",
-    title: "Master en Ingénierie des Systèmes Informatiques",
+    title: "Master en Ingénierie des Systèmes d'Information",
     place: "ESMT, Dakar",
   },
   {
@@ -13,7 +13,7 @@ const formations = [
   },
   {
     period: "2021 — 2024",
-    title: "Licence en Télécommunications et Informatique",
+    title: "Licence en Télécommunications et Informatique spécialisée en developpement d'application répartie",
     place: "ESMT, Dakar",
   },
 ];
