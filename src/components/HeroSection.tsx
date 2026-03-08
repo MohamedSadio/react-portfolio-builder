@@ -18,7 +18,7 @@ const HeroSection = () => {
             <span className="text-primary">SADIO</span>
           </h1>
           <p className="text-base md:text-lg text-muted-foreground max-w-lg leading-relaxed">
-            Développeur Full-Stack. Apprenant en Master Ingénierie des Systèmes d'Information à l'ESMT et futur architecte logiciel.
+            Développeur Full-Stack. Etudiant en Master Ingénierie des Systèmes d'Information à l'ESMT et futur architecte logiciel.
           </p>
           <div className="mt-8 flex gap-4">
             <a
